@@ -1,0 +1,71 @@
+body{
+	
+        background-image:url("Dlw (1).jpg");
+           background-repeat:no-repeat;	
+            background-size:100% 100%;
+        background-attachment:fixed;	
+}
+
+
+.set2{
+	
+	height:150px;
+	width:100%;
+	background-color:rgba(0,0,0,.6);
+}
+
+.set3{
+	
+	height:400px;
+	width:400px;
+	background-color:rgba(0,0,0,.6);
+	margin:140px 500px;
+}
+
+
+table{
+	
+	border-collapse:separate;
+	border-spacing:25px;
+}
+
+h1{
+	color:white;
+	text-align:center;
+	font-size:50px;
+	
+}
+
+h2{
+	color:white;
+	text-align:center;
+	
+}
+
+
+.mg{
+	height:100px;
+	width:100px;
+	position:relative;
+	top:-120px;
+	right:-20px;
+	
+}
+
+.mvs
+{
+     height:100px;
+	width:100px;
+	position:relative;
+	top:-120px;
+	right:-1270px;	
+	
+	
+}	
+
+
+
+
+
+
+

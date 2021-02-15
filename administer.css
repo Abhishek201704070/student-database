@@ -1,0 +1,27 @@
+body{
+	
+        background-image:url("uttar-pradesh-varanasi.jpg");
+           background-repeat:no-repeat;	
+            background-size:100% 100%;
+        background-attachment:fixed;	
+}
+
+.set{
+	
+	height:800px;
+	width:600px;
+	background-color:rgba(0,0,0,.6);
+	margin:50px 500px;
+}
+h1{
+
+text-align:center;
+font-family:arial;
+color:white;
+}
+table{
+	
+	border-collapse:separate;
+	border-spacing:15px;
+}
+

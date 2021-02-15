@@ -1,0 +1,29 @@
+body{
+	
+        background-image:url("dlw1.jpg");
+           background-repeat:no-repeat;	
+            background-size:100% 100%;
+        background-attachment:fixed;	
+}
+.set{
+	height:800px;	
+	width:600px;
+	margin:auto;
+	background:rgba(0,0,0,.6);
+    	
+	
+}
+
+
+table{
+	
+	border-collapse:separate;
+	border-spacing:15px;
+}
+
+h1{
+
+text-align:center;
+font-family:arial;
+color:white;
+}
